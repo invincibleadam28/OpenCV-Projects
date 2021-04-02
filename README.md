@@ -1,2 +1,2 @@
 # OpenCV-Projects
-Projects which I made using OpenCV
+Virtual Paint, Document Scanner, Face Detector and more.
